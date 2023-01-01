@@ -1,0 +1,31 @@
+Problem:
+
+Given a signed 32-bit integer x, return x with its digits reversed. 
+If reversing x causes the value to go outside the signed 32-bit 
+integer range [-231, 231 - 1], then return 0.
+
+Solution:
+
+//import java.util.Scanner;
+//import java.lang.Math;
+class Solution {
+    public int reverse(int x) {
+        
+        long temp=0;
+        while(x!=0){
+            temp+=x%10;
+            temp=temp*10;
+            x=x/10;
+        }
+        temp=temp/10;
+        if (temp>= Integer.MAX_VALUE || temp<=Integer.MIN_VALUE)
+        return 0;
+        return (int)temp;
+    }
+    public static void main(String args[]){
+        Solution so=new Solution();
+        Scanner s=new Scanner(System.in);
+        int input=s.nextInt();
+        System.out.println(so.reverse(input));
+    }
+}
