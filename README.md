@@ -8,3 +8,4 @@
 2. Palindrome number. 02.01.2023 : *used Python 3* : Attempts = 1
 3. Valid Palindrome. 03.01.2023 : *used Python 3* : Attempts = 1
 4. Running sum. 04.01.2023 : *used Python 3* : Attempts = 1
+5. Concatenation of Array. 05.01.2023 : *used Python 3* :Attempts = 1
