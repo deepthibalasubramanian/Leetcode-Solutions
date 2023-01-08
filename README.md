@@ -11,3 +11,4 @@
 5. Concatenation of Array. 05.01.2023 : *used Python 3* :Attempts = 1
 6. Valid Paranthesis. 06.01.2023 : *used Python 3* : Attempts = 8
 7. Length of Last Word. 07.01.2023 : *used Python 3* : Attempts = 1
+8. Plus One. 08.01.2023 : *used Python 3* : Attempts = 1
