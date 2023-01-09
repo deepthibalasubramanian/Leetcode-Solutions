@@ -12,3 +12,4 @@
 6. Valid Paranthesis. 06.01.2023 : *used Python 3* : Attempts = 8
 7. Length of Last Word. 07.01.2023 : *used Python 3* : Attempts = 1
 8. Plus One. 08.01.2023 : *used Python 3* : Attempts = 1
+9. Number of 1 Bits. 09.01.2023 : *used Python 3* : Attempts = 1
