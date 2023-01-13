@@ -15,3 +15,4 @@
 9. Number of 1 Bits. 09.01.2023 : *used Python 3* : Attempts = 1
 10. Reverse String. 10.01.2023 : *used Python 3* : Attempts = 1
 11. Add Digits. 11.01.2023 : *used Python 3* : Attempts = 1
+12. Sqrt(x). 13.01.2023 : *used Python 3* : Attempts = 1
